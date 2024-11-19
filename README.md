@@ -51,6 +51,47 @@ There were some major insights gotten to help Optimus Elite Superstore improve s
 
 6.7 - *It showed that Phones and Medium both led in terms of profit when it comes to Sub-Category and Order Priority Level respectively. 
 
+![](SRP01.png)
+
+![](SRP02.png)
+
+![](SRP03.png)
+
+![](SRP04.png)
+
+![](SRP05.png)
+
+![](SRP06.png)
+
+![](SRP07.png)
+
+![](SRP08.png)
+
+![](SRP09.png)
+
+![](SRP10.png)
+
+![](SRP11.png)
+
+![](SRP12.png)
+
+![](SRP13.png)
+
+![](SRP14.png)
+
+![](SRP15.png)
+
+![](SRP16.png)
+
+![](SRP17.png)
+
+![](SRP18.png)
+
+![](SRP19.png)
+
+![](SRP20.png)
+
+![](SRP21.png)
 ## 7.0 Recommendation
 As part of the sumary gotten, it was recommended that the consumer segment is the most profitable, generating the highest revenue compared to other segments. To capitalize on that it was said that Optimus-Elite Superstores should increase targeted marketing efforts towards this group as it presents the most significant growth opportunity. 
 More recommendations can be found in the PowerPoint Presentation. 
